@@ -8,7 +8,7 @@ This script is designed to run on Ubuntu 18.04 servers, but could be adapted for
 
 ### Examples
 
-See an example: [report.html](/examples/report.html)
+See an example in [markdown](examples/report.md) or [html](/examples/report.html) format. 
 
 ## Requirements
 
